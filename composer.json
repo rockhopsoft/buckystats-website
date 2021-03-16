@@ -1,0 +1,30 @@
+{
+    "name": "rockhopsoft/buckystats-website",
+    "description": "Website images for rockhopsoft/buckystats.",
+    "keywords": [
+        "Bucky Stats",
+        "Morgan Lesko",
+        "Wiki World Order",
+        "Rockhopper Software Designs",
+        "Buckminster Fuller",
+        "datasets",
+        "statistics",
+        "charts",
+        "graphs",
+        "public health",
+        "economics",
+        "United States",
+        "spaceship earth",
+        "Survloop",
+        "laravel"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morgan Lesko",
+            "homepage": "https://github.com/rockhopsoft/buckystats",
+            "email": "rockhoppers@runbox.com",
+            "role": "Developer"
+        }
+    ]
+}
