@@ -1,0 +1,47 @@
+"Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"1979"	"1979"	1913841	224635398	852.0
+	"1980"	"1980"	1989841	226624371	878.0
+	"1981"	"1981"	1977981	229487512	861.9
+	"1982"	"1982"	1974797	231701425	852.3
+	"1983"	"1983"	2019201	233781743	863.7
+	"1984"	"1984"	2039369	235922142	864.4
+	"1985"	"1985"	2086440	238005715	876.6
+	"1986"	"1986"	2105361	240189882	876.5
+	"1987"	"1987"	2123323	242395034	876.0
+	"1988"	"1988"	2167999	244651961	886.2
+	"1989"	"1989"	2150466	247001762	870.6
+	"1990"	"1990"	2148463	248922111	863.1
+	"1991"	"1991"	2169518	253088068	857.2
+	"1992"	"1992"	2175613	256606463	847.8
+	"1993"	"1993"	2268553	260024637	872.4
+	"1994"	"1994"	2278994	263241475	865.7
+	"1995"	"1995"	2312132	266386596	868.0
+	"1996"	"1996"	2314690	269540779	858.8
+	"1997"	"1997"	2314245	272776678	848.4
+	"1998"	"1998"	2337256	276032848	846.7
+"Total"			42868083	4961016600	864.1
+"---"
+"Dataset: Compressed Mortality, 1979-1998"
+"Query Parameters:"
+"Group By: Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Jan 29, 2025 8:23:38 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1979-1998. CDC WONDER On-line Database, compiled from Compressed Mortality File CMF"
+"1968-1988, Series 20, No. 2A, 2000 and CMF 1989-1998, Series 20, No. 2E, 2003. Accessed at http://wonder.cdc.gov/cmf-icd9.html"
+"on Jan 29, 2025 8:23:38 AM"
+"---"
+Caveats:
+"1. The population figures used in the calculation of death rates for the age group 'under 1 year' are the live births for the"
+"given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"2. Population figures in this table for 1979 and 1981-89 are intercensal estimates of the July 1 resident population of the"
+"United States. Note that the state and county population estimates for these years are not consistent with national estimates."
+"The population figures in this table for 1980 and 1990 are modified age-race-sex (MARS) April 1 census counts. The population"
+"figures for 1991-98 are bridged-race intercensal estimates of the July 1 resident population."
